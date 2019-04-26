@@ -25,6 +25,8 @@ Creado con fines didácticos, no se recomienda operarlo.
 No soy un gran entusiasta de los sistemas antitendenciales, pese a que a largo plazo suelen ganar más que los sistemas tendenciales (scalping),
 se ven muy afectados por los cambios de volatilidad en mercado y noticias, por lo que hay que tener cuidado con el peso que se le asigna.
 
+Sistema descartado por no cumplir con los criterios requeridos para entrar en el portfolio.
+
 --- NOTES ---
 
 Use mode: EURNZD - M5
@@ -35,6 +37,8 @@ This was created for education purposes, use it at your own risk.
 
 I'm not a very keen about 'trading agaisnt the trend' systems, even though in the long term they tend to earn more than Trend Following scalping systems,
 they are very affected by changes in market volatility and news, so we must be careful with the weights assigned to them in a portfolio.
+
+Discarded EA due to not complying the requisites to be used in the portfolio.
 
 */
 
